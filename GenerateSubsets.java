@@ -1,3 +1,5 @@
+//This program takes an integer input and generates all possible subsets & permutations
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
